@@ -9,7 +9,7 @@
 
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: [https://kiranmak.github.io]
 incremental: false
 highlighter: rouge
 gist:
