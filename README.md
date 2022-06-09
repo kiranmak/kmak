@@ -1,2 +1,2 @@
 # gh-pages
-landing site https://kiranmak.github.io/gh-pages
+landing site [newip-published](https://kiranmak.github.io/newip_published/)
